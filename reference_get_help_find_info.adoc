@@ -1,0 +1,27 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_get_help_find_info.html 
+keywords: where to find more information, help, support, feedback, ask questions 
+summary: NetApp SaaS Backup Partner Central インターフェイスでは、サポートや詳細情報のほか、フィードバックを提供することができます。 
+---
+= ヘルプを参照したり、詳細情報を参照したりするには
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+NetApp SaaS Backup Partner Central インターフェイスのサポートおよび詳細については、 * Support * を参照してください。
+
+image:support_page.png["サポートオプション"]
+
+* サポート * では、次のリソースにアクセスできます。
+
+* * Knowledge Base * の記事
+* * コミュニティ *
+* * ユーザーマニュアル *
+* * フィードバック *
+* * セキュリティセンター *
+* * お問い合わせ *
+

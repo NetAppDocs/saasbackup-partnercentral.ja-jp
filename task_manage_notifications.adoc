@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_notifications.html 
+keywords: saas backup, partner central, settings, manage, notifications, add, delete, modify, enable, disable, customize 
+summary: SaaS Backup Partner Central では、異なるユーザの通知を追加、変更、および削除できます。 
+---
+= 通知を管理します
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central では、異なるユーザの通知を追加、変更、および削除できます。
+
+次の通知を有効または無効にできます。
+
+* ロールにユーザを追加します
+* お客様による削除が完了しました
+* お客様のオンボードの成功
+* 顧客の削除エラー
+* お客様のオンボード障害
+
+
+.手順
+. ダッシュボードで、をクリックします image:settings_icon.png["設定アイコン"]。
+. ドロップダウンメニューから *Notifications * を選択します。
++
+image:settings_notifications.png["設定ドロップダウンメニューから通知を選択します"]
+
+. * 通知管理 * では、通知を追加、変更、削除できます。
++
+image:notification_management_screen.png["通知管理画面"]
+
++
+.. 通知を追加するには、をクリックします image:add_notification_icon.png["通知アイコンを追加します"] ユーザに通知を追加します。
++
+* 通知の追加 * に、ユーザーの電子メールアドレスを入力します。有効にする通知を選択し、 * 追加 * をクリックします。
+
++
+image:add_notifications_screen.png["通知をカスタマイズする"]
+
+.. 通知を変更するには、をクリックします image:pencil_icon.png["鉛筆のアイコン"]。
+.. 通知を削除するには、をクリックします image:delete_icon_blue.png["削除アイコン"]。
+
+
+

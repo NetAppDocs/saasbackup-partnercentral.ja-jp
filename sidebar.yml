@@ -1,0 +1,32 @@
+---
+entries:
+- title: パートナーセントラル
+  entries:
+  - title: NetApp SaaS Backup Partner Central のドキュメント
+    url: "/index.html"
+  - title: リリースノート
+    entries:
+    - title: 新機能とアップデート
+      url: "/partnercentral_reference_new.html"
+    - title: 既知の問題および制限
+      url: "/partnercentral_reference_limitations.html"
+  - title: Partner Central に登録します
+    url: "/partnercentral_task_register.html"
+  - title: 顧客の追加と管理
+    url: "/partnercentral_task_add_and_manage_customers.html"
+  - title: 顧客のジョブを監視する
+    url: "/partnercentral_task_monitor.html"
+  - title: レポートを生成します
+    url: "/partnercentral_task_generate_reports.html"
+  - title: 設定を管理します
+    entries:
+    - title: 通知を管理します
+      url: "/partnercentral_task_manage_notifications.html"
+    - title: ロールの管理
+      url: "/partnercentral_task_manage_roles.html"
+    - title: キーを管理します
+      url: "/partnercentral_task_manage_keys.html"
+  - title: 統計情報
+    url: "/partnercentral_reference_statistics.html"
+  - title: サポートおよび情報の参照先
+    url: "/partnercentral_reference_get_help_find_info.html"

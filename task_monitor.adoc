@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_monitor.html 
+keywords: saas backup, partner central, microsoft 365, monitor, backup, sync, restore, jobs 
+summary: SaaS Backup for Microsoft 365 のバックアップ、同期、リストアのジョブは、 SaaS Backup Partner Central で監視できます。 
+---
+= 顧客のジョブを監視する
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central では、 SaaS Backup for Microsoft 365 のお客様のバックアップ、同期、リストアのジョブを監視できます。
+
+.手順
+. ダッシュボードで、 * Monitoring * をクリックします。
++
+image:monitoring.png["モニタリングページ"]
+
++
+* Monitoring * では、 * Running Jobs * と * Completed Jobs * の 2 つのタブで、顧客のジョブ履歴を確認できます。
+
+. ジョブタイプ、サービスタイプ、ドメイン名、およびステータス別に、実行中のジョブ * および完了したジョブ * をフィルタリングできます。
++
+.. ジョブ・タイプでフィルタリングするには、 [ ジョブ・タイプ ] の下の [ * フィルタ * ] をクリックし、ジョブ・タイプを選択します。
++
+image:filter_job_type.png["ジョブタイプでフィルタリングします"]
+
++
+* 現在、 * ジョブタイプはオンデマンドジョブを参照しています。
+
+.. サービスタイプでフィルタリングするには、 [ サービスタイプ ] の下の [ * フィルタ * ] をクリックし、サービスを選択します。
++
+サービスを選択します。
+
++
+*** Exchange Online
+*** OneDrive for Business の場合
+*** SharePoint Online
+*** Office 365 グループ
+
+
+.. 顧客によるフィルタリングを行うには、 * ドメイン名 * の下の * フィルタ * をクリックし、顧客ドメインを選択または検索します。
++
+image:filter_customer_domain.png["顧客ドメインでフィルタリングします"]
+
+.. ステータスでフィルタリングするには、 [* ステータス ] の下の [* フィルタ ] をクリックし、ステータスを選択します。
++
+image:filter_job_status.png["ジョブステータスでフィルタリングします"]
+
+
+
+

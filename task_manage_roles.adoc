@@ -1,0 +1,49 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_roles.html 
+keywords: saas backup, partner central, role management, manage, role, roles 
+summary: SaaS Backup Partner Central では、さまざまなユーザロールを変更、追加、および割り当てることができます。 
+---
+= ロールの管理
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central では、さまざまなユーザロールを変更、追加、および割り当てることができます。
+
+ロール管理 * のデフォルトの E メールはパートナー様の E メールです。
+
+.手順
+. ダッシュボードで、をクリックします image:settings_icon.png["設定アイコン"]。
+. ドロップダウンメニューから *Role Management* を選択します。
++
+image:settings_role_management.png["[ 設定 ] ドロップダウンメニューで、ロール管理を選択します"]
+
+. ロール管理 * では、ロールを追加、変更、および削除できます。
++
+image:role_management_screen.png["ロール管理画面"]
+
+. ユーザを追加するには、をクリックします image:add_notification_icon.png["追加アイコン"]。
++
+[ ユーザーの追加 ] に、必要な情報を入力します。
+
++
+image:add_user_role_management.png["Add user role management （ユーザーロール管理の追加）画面"]
+
++
+.. ユーザのロールを選択します。
++
+*** * グローバルパートナー管理者 * ：他のグローバルパートナーを作成し、すべての役割を完全に制御できます。
+*** * フル管理者 * ：グローバルパートナーを除くすべてのロールを完全に制御できます。
+*** * 構成管理者 * ：顧客を追加および削除できます。
+
+
+
+
+. ユーザのロールを変更するには、をクリックします image:pencil_icon.png["鉛筆のアイコン"]。
+. ユーザを削除するには、をクリックします image:delete_icon_blue.png["削除アイコン"]。
+

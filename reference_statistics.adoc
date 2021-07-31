@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_statistics.html 
+keywords: partner central, saas backup, microsoft 365, numerical, graphical, statistics 
+summary: SaaS Backup Partner Central では、統計 * 画面には、 SaaS Backup for Microsoft 365 のお客様を管理するために役立つ統計情報がいくつかのカテゴリに分けて表示されます。 
+---
+= 統計情報
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central では、統計 * ビューには、 SaaS Backup for Microsoft 365 のお客様の管理に役立つ統計が表示されます。
+
+次の数値統計が表示されます。
+
+* * ライセンスされた顧客 *
+* * トライアル（顧客） *
+* * アクティブなジョブ *
+* * ジョブのエクスポート *
+* * 保護されたユーザー *
+* * リストア・ジョブ *
+* * 合計顧客数 *
+* * 合計ジョブ数 *
+
+
+image:numerical_statistics.png["数値統計"]
+
+グラフに表示される統計情報は次のとおりです。
+
+* * 顧客 *
+* * ジョブ *
+
+
+image:graphical_statistics.png["グラフ統計"]

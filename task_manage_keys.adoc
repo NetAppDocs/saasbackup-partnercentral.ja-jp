@@ -1,0 +1,61 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_keys.html 
+keywords: saas backup, partner central, key management, manage, key, keys, add, download, PowerShell 
+summary: Partner Central では、キーを追加および管理してセキュリティを強化できます。PowerShell コマンドレットインターフェイスもサポートされています。 
+---
+= キーを管理します
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Key Management * の設定から、 Key Central でキーを追加および管理してセキュリティを強化できます。PowerShell コマンドレットインターフェイスもサポートされています。
+
+
+
+== キーを追加します
+
+.手順
+. ダッシュボードで、をクリックします image:settings_icon.png["設定アイコン"]。
+. ドロップダウン・メニューから * Key Management * を選択します。
++
+image:settings_key_management.png["[ 設定 ] ドロップダウンメニューのキー管理"]
+
+. キーを追加するには、をクリックします image:add_key_icon.png["キーの追加アイコン"]。
++
+image:key_management_screen.png["キー管理画面"]
+
+. [ キーの追加 *] で、次の操作を行います。
++
+image:add_key_screen.png["「キーの追加」画面"]
+
++
+.. ユーザを選択します。
+.. 概要を追加します。
+.. 有効期限を選択します。
+.. [ 追加（ Add ） ] をクリックします。ボックスに「 Successfully generated the key 」というメッセージが表示されます。
+
+
+. をクリックします image:eye_show_key_icon.png["キーアイコンを表示します"] 暗号化されていないキーを表示するには、をクリックし image:eye_hide_key_icon.png["キーアイコンを非表示にします"] をクリックします。
+
+
+
+
+== PowerShell をダウンロードします
+
+.手順
+. ダッシュボードで、をクリックします image:settings_icon.png["設定アイコン"]。
+. ドロップダウン・メニューから * Key Management * を選択します。
++
+image:settings_key_management.png["[ 設定 ] ドロップダウンメニューのキー管理"]
+
+. PowerShell をダウンロードするには、をクリックします image:download_powershell_icon.png["PowerShell アイコンをダウンロードします"]。
+. ダウンロードしたプログラムをインストールします。
+. プログラムのインストールが完了したら、デスクトップ上の * SaaS Backup PowerShell * のアイコンをダブルクリックして PowerShell コマンドレットを起動します。
+
+
+NetApp SaaS Backup PowerShell モジュールの使用方法の詳細については、を参照してください link:https://fieldportal.netapp.com/content/1255854["NetApp SaaS Backup PowerShell ガイド（ TR-4873 ）"]。

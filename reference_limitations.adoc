@@ -1,0 +1,19 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_limitations.html 
+keywords: saas backup, partner central, microsoft 365, problems, limitations 
+summary: 既知の問題と制限事項のリスト。 
+---
+= 既知の問題および制限
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+次の制限があります。
+
+* パートナーは委譲された権限に基づいてテナントをオンボードできません。
+

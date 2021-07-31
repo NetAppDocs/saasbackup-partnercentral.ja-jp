@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_generate_reports.html 
+keywords: saas backup, partner central, generate, reports, 
+summary: Partner Central では、ライセンスの使用状況、ストレージの使用状況、ジョブ統計、アクティビティ、監査に関するレポートを生成できます。 契約更新もサポートします。 
+---
+= レポートを生成します
+:hardbreaks:
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+SaaS Backup Partner Central では、ライセンスの使用状況、ストレージの使用状況、ジョブ統計、アクティビティ、監査に関するレポートを生成できます。 契約更新もサポートします。
+
+.手順
+. ダッシュボードの左側にある * Reports * をクリックします。
++
+image:reports_page.png["[ レポート ] ページ"]
+
+. レポートを生成するカテゴリを選択します。
++
+** * ライセンス使用率 *
+** * ストレージ使用率 *
+** * ジョブ統計 *
+** * 活動報告 *
+** * 監査レポート *
+** * 更新レポート *
+
+
+. カテゴリの下にある [*Generate] をクリックします。レポートは CSV 形式で生成されます。
+
