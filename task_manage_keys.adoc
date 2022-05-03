@@ -6,6 +6,7 @@ summary: Partner Central では、キーを追加および管理してセキュ�
 ---
 = キーを管理します
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

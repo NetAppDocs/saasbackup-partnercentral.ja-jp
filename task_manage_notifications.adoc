@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central では、異なるユーザの通知を追�
 ---
 = 通知を管理します
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

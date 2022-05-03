@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central では、新機能、拡張機能、およ�
 ---
 = 新機能とアップデート
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

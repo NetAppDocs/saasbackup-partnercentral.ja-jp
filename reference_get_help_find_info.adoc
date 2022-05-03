@@ -6,6 +6,7 @@ summary: NetApp SaaS Backup Partner Central インターフェイスでは、サ
 ---
 = ヘルプを参照したり、詳細情報を参照したりするには
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

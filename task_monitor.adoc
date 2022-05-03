@@ -6,6 +6,7 @@ summary: SaaS Backup for Microsoft 365 のバックアップ、同期、リス�
 ---
 = 顧客のジョブを監視する
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

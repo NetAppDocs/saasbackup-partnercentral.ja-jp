@@ -6,6 +6,7 @@ summary: お客様は、 SaaS Backup Partner Central で追加および管理で
 ---
 = 顧客の追加、削除、および管理
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

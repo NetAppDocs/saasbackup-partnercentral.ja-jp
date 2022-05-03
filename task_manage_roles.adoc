@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central では、さまざまなユーザロール�
 ---
 = ロールの管理
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

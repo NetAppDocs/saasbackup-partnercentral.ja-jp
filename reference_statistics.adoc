@@ -6,6 +6,7 @@ summary: SaaS Backup Partner Central では、統計 * 画面には、 SaaS Back
 ---
 = 統計情報
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

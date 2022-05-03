@@ -6,6 +6,7 @@ summary: パートナーとして登録し、 Partner Central インターフェ
 ---
 = NetApp SaaS Backup Partner Central に登録します
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 

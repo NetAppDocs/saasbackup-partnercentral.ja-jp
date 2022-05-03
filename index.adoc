@@ -5,6 +5,7 @@ summary: NetApp SaaS Backup for Partner Central のドキュメントポータ�
 ---
 = NetApp SaaS Backup Partner Central のドキュメント
 :hardbreaks:
+:allow-uri-read: 
 :nofooter: 
 :icons: font
 :linkattrs: 
