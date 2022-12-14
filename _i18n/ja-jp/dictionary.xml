@@ -132,7 +132,6 @@
   <block id="ec4f83a67a4298da0fd76c4e8a66dc85" category="summary">NetApp SaaS Backup for Partner Central のドキュメントポータルへようこそ。</block>
   <block id="026434100c73bca9db8ba1db98cc3853" category="doc">NetApp SaaS Backup Partner Central のドキュメント</block>
   <block id="1fcc6bcfa809f3049279857f9d1b7273" category="paragraph">NetApp SaaS Backup Partner Central は、ネットアップパートナーが SaaS Backup for Microsoft 365 を使用しているお客様を管理およびサポートするためのインターフェイスです。Partner Central への登録、お客様の管理、設定の変更、パートナーおよびお客様の情報の変更を行う手順を説明します。</block>
-  <block id="1fde0727b387439572ade83eecff4f68" category="section-title">新機能をご紹介します</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="inline-link-macro">リリースノート</block>
   <block id="581ba4d54ae65da41a0053e95e169521" category="list-text"><block ref="581ba4d54ae65da41a0053e95e169521" category="inline-link-macro-rx"></block></block>
   <block id="e92ad139d030481f83fb34bc6eb4528d" category="list-text">製品のアップデート、操作方法のビデオ、サービスの健全性に関する情報については、「新機能 * 」ダッシュボードビューをご覧ください。</block>
@@ -245,4 +244,5 @@
   <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">設定を管理します</block>
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">キーを管理します</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">サポートおよび情報の参照先</block>
+  <block id="492e5546e60705134bff8d7f80511a8d" category="section-title">最新情報をご確認ください</block>
 </blocks>

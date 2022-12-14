@@ -17,7 +17,7 @@ NetApp SaaS Backup Partner Central は、ネットアップパートナーが Sa
 
 
 
-== 新機能をご紹介します
+== 最新情報をご確認ください
 
 * link:partnercentral_reference_new.html["リリースノート"]
 * 製品のアップデート、操作方法のビデオ、サービスの健全性に関する情報については、「新機能 * 」ダッシュボードビューをご覧ください。
