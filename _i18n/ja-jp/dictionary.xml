@@ -157,9 +157,7 @@
   <block id="f156b97b5fa3f266e3d0a2217380feae" category="paragraph">Partner Central ダッシュボードの「 What's New 」ビューでは、最新情報、ハウツービデオ、サービスの健全性に関する情報を確認できます。</block>
   <block id="38332dc0c3ca19f4fc3fc46728002c03" category="inline-image-macro">新機能</block>
   <block id="4758080db72f761bca56b7d6d4576c94" category="paragraph"><block ref="4758080db72f761bca56b7d6d4576c94" category="inline-image-macro-rx" type="image"></block></block>
-  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">Partner Central では、キーを追加および管理してセキュリティを強化できます。PowerShell コマンドレットインターフェイスもサポートされています。</block>
   <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">キーを管理します</block>
-  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">Key Management * の設定から、 Key Central でキーを追加および管理してセキュリティを強化できます。PowerShell コマンドレットインターフェイスもサポートされています。</block>
   <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">キーを追加します</block>
   <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">ドロップダウン・メニューから * Key Management * を選択します。</block>
   <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">[ 設定 ] ドロップダウンメニューのキー管理</block>
@@ -178,13 +176,6 @@
   <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">キーアイコンを表示します</block>
   <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">キーアイコンを非表示にします</block>
   <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">をクリックします <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> 暗号化されていないキーを表示するには、をクリックし <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> をクリックします。</block>
-  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">PowerShell をダウンロードします</block>
-  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">PowerShell アイコンをダウンロードします</block>
-  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">PowerShell をダウンロードするには、をクリックします <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>。</block>
-  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">ダウンロードしたプログラムをインストールします。</block>
-  <block id="1902fe9260b654df58d39430f970011a" category="list-text">プログラムのインストールが完了したら、デスクトップ上の * SaaS Backup PowerShell * のアイコンをダブルクリックして PowerShell コマンドレットを起動します。</block>
-  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">NetApp SaaS Backup PowerShell ガイド（ TR-4873 ）</block>
-  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">NetApp SaaS Backup PowerShell モジュールの使用方法の詳細については、を参照してください <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>。</block>
   <block id="6ef1a425977ae7f0b4aa9807d8a6948e" category="summary">Partner Central では、ライセンスの使用状況、ストレージの使用状況、ジョブ統計、アクティビティ、監査に関するレポートを生成できます。 契約更新もサポートします。</block>
   <block id="0a20f8ab3f14dc5cfec9c5570a7bc665" category="doc">レポートを生成します</block>
   <block id="5fa73db7f95cea2851a687a0e525bbd2" category="paragraph">SaaS Backup Partner Central では、ライセンスの使用状況、ストレージの使用状況、ジョブ統計、アクティビティ、監査に関するレポートを生成できます。 契約更新もサポートします。</block>
@@ -245,4 +236,6 @@
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">キーを管理します</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">サポートおよび情報の参照先</block>
   <block id="492e5546e60705134bff8d7f80511a8d" category="section-title">最新情報をご確認ください</block>
+  <block id="adb037296ec5890668582b7d941e31a7" category="summary">Partner Central では、キーを追加および管理してセキュリティを強化できます。</block>
+  <block id="c56e63c2fd8bbde29916a0445162e4b2" category="paragraph">Key Management * の設定から、 Key Central でキーを追加および管理してセキュリティを強化できます。</block>
 </blocks>
