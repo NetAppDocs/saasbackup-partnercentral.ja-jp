@@ -1,6 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: index.html 
+keywords: saas backup, partner central, partners, microsoft 365, documentation, new, get started, provide feedback, get help, find, information 
 summary: NetApp SaaS Backup for Partner Central のドキュメントポータルへようこそ。 
 ---
 = NetApp SaaS Backup Partner Central のドキュメント
@@ -10,7 +11,6 @@ summary: NetApp SaaS Backup for Partner Central のドキュメントポータ�
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:keywords: saas backup, partner central, partners, microsoft 365, documentation, new, get started, provide feedback, get help, find, information
 
 
 NetApp SaaS Backup Partner Central は、ネットアップパートナーが SaaS Backup for Microsoft 365 を使用しているお客様を管理およびサポートするためのインターフェイスです。Partner Central への登録、お客様の管理、設定の変更、パートナーおよびお客様の情報の変更を行う手順を説明します。
